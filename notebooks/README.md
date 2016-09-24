@@ -1,4 +1,4 @@
-# Jupter Notebooks
+# Jupyter Notebooks
 
 Example Jupyter notebooks. These should be runnable via MyBinder or can be downloaded and used with you own notebook server.
 
