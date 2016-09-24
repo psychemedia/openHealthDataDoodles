@@ -2,7 +2,7 @@
 
 Example Jupyter notebooks. These should be runnable via MyBinder or can be downloaded and used with your own notebook server.
 
-Several online data analysis workbenches are also capable of uploading and running Jupyter notebooks, although you may need to install additional Python packages for the code contained in the notebooks that make up this repository to work:
+Several online data analysis workbenches are also capable of uploading and running Jupyter notebooks. In order to run all the code in the notebooks that make up this repository, you may need to install additional Python packages:
 
 - [SageMathCloud](https://cloud.sagemath.com/)
 - [IBM Data Scientist Workbench](https://datascientistworkbench.com/)
