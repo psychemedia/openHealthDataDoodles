@@ -1,6 +1,6 @@
 # Jupyter Notebooks
 
-Example Jupyter notebooks. These should be runnable via MyBinder or can be downloaded and used with you own notebook server.
+Example Jupyter notebooks. These should be runnable via MyBinder or can be downloaded and used with your own notebook server.
 
 Several online data analysis workbenches are also capable of uploading and running Jupyter notebooks:
 
