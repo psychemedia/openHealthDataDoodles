@@ -11,3 +11,5 @@ Several online data analysis workbenches are also capable of uploading and runni
 - [Jupyter Project Demo Server](https://try.jupyter.org/)
 
 *In order to run all the code in the notebooks that make up this repository, you may need to install additional Python packages.*
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/psychemedia/openhealthdatadoodles)
