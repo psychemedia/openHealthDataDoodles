@@ -1,4 +1,7 @@
-pandas
+pandas==0.21.1
 requests
 beautifulsoup4
 xlrd
+matplotlib
+seaborn
+
