@@ -4,4 +4,8 @@ beautifulsoup4
 xlrd
 matplotlib
 seaborn
+weightedstats
 
+
+#Common extensions
+jupyter_contrib_nbextensions
