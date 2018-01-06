@@ -6,6 +6,9 @@ matplotlib
 seaborn
 weightedstats
 
+git+https://github.com/psychemedia/openHealthDataDoodles.git@cli_winter_sitrep
+git+https://github.com/psychemedia/python-natural-time-periods.git
+git+https://github.com/psychemedia/python-pandas-datareader-NHSDigital.git
 
 #Common extensions
 jupyter_contrib_nbextensions
